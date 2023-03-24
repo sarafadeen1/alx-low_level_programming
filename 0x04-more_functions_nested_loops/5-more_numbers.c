@@ -1,12 +1,17 @@
 #include "main.h"
 
+
 /**
  * more_number - print 10 times the number since 0 up to 14
  *
  * Return:10 times of the number since 0 up to 14
+ *
  */
-int main(void)
+
+void more_number(void)
+
 {
+
 	int x, y;	
 	for (x = 0; x < 10; x++)
 	{
