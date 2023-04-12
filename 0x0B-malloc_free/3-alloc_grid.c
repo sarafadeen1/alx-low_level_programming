@@ -6,7 +6,7 @@
  * Return: grid with freed spaces
  */
 
-int **alloc _grid(int width, int height)
+int **alloc_grid(int width, int height)
 {
 /*Declaring variables*/
 int **grid;
